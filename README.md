@@ -6,15 +6,16 @@
 <!-- About Me section -->
 <h2 style="text-align: center; font-size: 2rem; margin-top: 40px;">Hi, I'm Duy Nguyen</h2>
 
-<div>
-  <img align="center"
+<div style="text-align: center;">
+  <img
     src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47sc76l4bzm5e78c8rrg1713n6uudhl6ozmdc2a4t9&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
     alt="gif"
-    style="max-width: 200px; border-radius: 12px; display: block; margin: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" 
+    style="width: 180px; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);"
   />
 </div>
 
-<p style="font-size: 1.1rem; line-height: 1.6;">
+
+<p style="font-size: 1.1rem; line-height: 1.6;"><br/>
   I'm a final-year Information Systems student passionate about building responsive and interactive web applications.
   While I may be new to the industry, I'm rapidly growing my skills in full-stack development and actively building real-world projects.
 </p>
