@@ -5,7 +5,7 @@ them css inline de dep mat hon:<html><h1 align="center"># Welcome to My GitHub P
 <html>
 <h1 align="center">Hi , I'm Duy Nguyen</h1></html>
 <div align="center">
-        <img src="https://media1.tenor.com/m/6RvyvMjx3XMAAAAd/he-is-speaking-guy-explaining-with-a-whiteboard.gif" alt="ảnh gif">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47sc76l4bzm5e78c8rrg1713n6uudhl6ozmdc2a4t9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ảnh gif">
 </div>
 
 I'm a final-year Information Systems student passionate about building responsive and interactive web applications. While I may be new to the industry, I'm rapidly growing my skills in full-stack development and actively building real-world projects.
