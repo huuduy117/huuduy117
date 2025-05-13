@@ -4,7 +4,7 @@
 </h1>
 
 <!-- About Me section -->
-<h2 style="text-align: center; font-size: 2rem; margin-top: 40px;">Hi, I'm Duy Nguyen</h2>
+<h2 align: center>Hi, I'm Duy Nguyen</h2>
 
 <div style="text-align: center;">
   <img
