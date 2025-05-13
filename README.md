@@ -36,6 +36,7 @@ Technology never stands still, and neither do I. I'm always eager to learn new t
 
 ### 📫 How to Reach Me
 
+
 Email: benborla@icloud.com
 
 ### 📊 GitHub Stats
@@ -45,6 +46,9 @@ Email: benborla@icloud.com
 ### 🔝 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuduy117&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=junn4423&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔥 Streak Stats
 
