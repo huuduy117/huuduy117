@@ -1,7 +1,5 @@
-<!-- Heading chính -->
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
-<!-- About Me section -->
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 <h2 align="center">Hi, I'm Duy Nguyen</h2>
 
 <p align="center">
@@ -21,7 +19,7 @@ While I may be new to the industry, I'm rapidly growing my skills in full-stack 
 My current goal is to become a <strong>Web Frontend Developer</strong> within the next few months, with a strong foundation in both backend and frontend technologies.
 </p>
 
-<!-- Current Focus -->
+
 ### 🚀 Current Focus
 - **Frontend Development:** React, JavaScript (ES6+), TypeScript, HTML5, CSS3, Chakra UI, Tailwind CSS  
 - **Backend Development:** Node.js, Express.js, RESTful APIs  
@@ -29,9 +27,8 @@ My current goal is to become a <strong>Web Frontend Developer</strong> within th
 - **Authentication & Security:** JWT, role-based access control  
 - **Version Control & Deployment:** Git, GitHub, Vite, Netlify, and Render  
 
-<!-- Tech Stack -->
 ### 💻 Tech Stack
-
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2oxczUxcHdxYngwbWtvbDFqdDQ3dDZkcmhiaWphNXR2MGcxemZyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qZgHBlenHa1zKqy6Zn/giphy.gif" />
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
@@ -68,8 +65,11 @@ Whether it's writing clean code, improving UI/UX, or optimizing APIs—I'm alway
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<div style="text-align: left;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="max-width: 100%; visibility: visible;" />
+  </picture>
+</div>
+<h2 align="center">Thank you for visiting my profile! I'm always open to new opportunities and collaborations. Feel free to reach out to me if you have any questions or would like to connect. Let's build something amazing together!</h1>
