@@ -6,7 +6,11 @@
 <!-- Intro Section -->
 <div style="text-align: center; margin-bottom: 30px;">
   <h2>Hi, I'm <span style="color: #007acc;">Duy Nguyen</span></h2>
-  <img src="https://media1.tenor.com/m/6RvyvMjx3XMAAAAd/he-is-speaking-guy-explaining-with-a-whiteboard.gif" alt="gif" style="max-width: 300px; border-radius: 10px; margin-top: 10px;" />
+  <div style="text-align: center; margin: 20px 0;">
+  <img src="https://media1.tenor.com/m/6RvyvMjx3XMAAAAd/he-is-speaking-guy-explaining-with-a-whiteboard.gif" 
+       alt="gif" 
+       style="max-width: 300px; border-radius: 10px; display: block; margin: auto;" />
+  </div>
 </div>
 
 <!-- About Me -->
@@ -31,7 +35,7 @@ I'm currently learning and building projects using:
 ### 💻 Tech Stack
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2oxczUxcHdxYngwbWtvbDFqdDQ3dDZkcmhiaWphNXR2MGcxemZyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qZgHBlenHa1zKqy6Zn/giphy.gif" alt="tech" style="height: 2000px; text-align: center; border-radius: 10px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2oxczUxcHdxYngwbWtvbDFqdDQ3dDZkcmhiaWphNXR2MGcxemZyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qZgHBlenHa1zKqy6Zn/giphy.gif" alt="tech" style="height: 200px; text-align: center; border-radius: 10px;" />
   
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
