@@ -10,7 +10,7 @@
   <img 
     src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47sc76l4bzm5e78c8rrg1713n6uudhl6ozmdc2a4t9&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
     alt="gif"
-    style="max-width: 300px; border-radius: 12px; display: block; margin: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" 
+    style="max-width: 200px; border-radius: 12px; display: block; margin: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" 
   />
 </div>
 
@@ -78,7 +78,7 @@
 <!-- GitHub Stats -->
 <h3>📊 GitHub Stats</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=huuduy117&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huuduy117&theme=radical&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuduy117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -87,7 +87,7 @@
 <hr />
 
 <!-- Contribution Snake -->
-<div style="text-align: center;">
+<div style="text-align: left;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
