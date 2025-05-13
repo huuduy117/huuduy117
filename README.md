@@ -1,16 +1,55 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**huuduy117/huuduy117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a seasoned Web Developer with 1 years of experience under my belt. My journey in the world of web development has been exciting and full of continuous learning. Now, I'm expanding my horizons and exploring new territories in the tech landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+
+I'm currently diving into:
+
+- **SaaS (Software as a Service)**: Exploring the world of cloud-based software solutions.
+- **System Development**: Delving deeper into the intricacies of building robust and scalable systems.
+- **WASM (WebAssembly)**: Investigating the potential of running high-performance code in web browsers.
+
+### 💻 Tech Stack
+
+```
+                 HTML/CSS
+                /        \
+               /          \
+          JavaScript     Backend
+         /    |    \     /     \
+     React  Vue  NextJS PHP   Rust
+     /                /|\     /|\
+ NextJS        Symfony | Laminas |  \
+              Laravel |   Axum Tide Leptos(WASM)
+                      |
+                  Databases
+                 /    |    \
+           Postgres MySQL SQLite
+```
+
+### 🌱 Always Learning
+
+Technology never stands still, and neither do I. I'm always eager to learn new things and stay up-to-date with the latest trends in web development and beyond.
+
+### 📫 How to Reach Me
+
+Email: benborla@icloud.com
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=huuduy117&show_icons=true&theme=radical)
+
+### 🔝 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuduy117&layout=compact&theme=radical)
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huuduy117&theme=radical)
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you're interested in collaborating!
