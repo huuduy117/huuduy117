@@ -1,6 +1,7 @@
 <html><h1 align="center"># Welcome to My GitHub Profile! 👋</h1></html>
 
 ## About Me
+<html><h1 align="center">Hi , I'm Duy Nguyen</h1></html>
 
 I'm a final-year Information Systems student passionate about building responsive and interactive web applications. While I may be new to the industry, I'm rapidly growing my skills in full-stack development and actively building real-world projects.
 
