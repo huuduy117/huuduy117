@@ -54,6 +54,17 @@ Email: benborla@icloud.com
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huuduy117&theme=radical)
 
+<html>
+  <article class="markdown-body entry-content container-lg f5" itemprop="text">
+        <themed-picture data-catalyst-inline="true" data-catalyst="">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+                <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+            </picture>
+        </themed-picture>
+    </article>
+</html>
 ---
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you're interested in collaborating!
