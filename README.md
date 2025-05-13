@@ -1,7 +1,12 @@
 <html><h1 align="center"># Welcome to My GitHub Profile! 👋</h1></html>
 
 ## About Me
-<html><h1 align="center">Hi , I'm Duy Nguyen</h1></html>
+<html>
+<h1 align="center">Hi , I'm Duy Nguyen</h1></html>
+<div align="center">
+        <img src="https://i.imgflip.com/4uapcv.mp4" alt="ảnh gif">
+    </div>
+
 
 I'm a final-year Information Systems student passionate about building responsive and interactive web applications. While I may be new to the industry, I'm rapidly growing my skills in full-stack development and actively building real-world projects.
 
