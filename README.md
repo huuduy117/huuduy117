@@ -2,73 +2,66 @@
 
 ## About Me
 
-I'm a seasoned Web Developer with 9 years of experience under my belt. My journey in the world of web development has been exciting and full of continuous learning. Now, I'm expanding my horizons and exploring new territories in the tech landscape.
+I'm a final-year Information Systems student passionate about building responsive and interactive web applications. While I may be new to the industry, I'm rapidly growing my skills in full-stack development and actively building real-world projects.
+
+My current goal is to become a **Web Frontend Developer** within the next few months, with a strong foundation in both backend and frontend technologies.
 
 ### 🚀 Current Focus
 
-I'm currently diving into:
+I'm currently learning and building projects using:
 
-- **SaaS (Software as a Service)**: Exploring the world of cloud-based software solutions.
-- **System Development**: Delving deeper into the intricacies of building robust and scalable systems.
-- **WASM (WebAssembly)**: Investigating the potential of running high-performance code in web browsers.
+- **Frontend Development**: React, JavaScript (ES6+), TypeScript, HTML5, CSS3, Chakra UI, Tailwind CSS
+- **Backend Development**: Node.js, Express.js, RESTful APIs
+- **Databases**: MongoDB, MySQL
+- **Authentication & Security**: JWT, role-based access control
+- **Version Control & Deployment**: Git, GitHub, Vite, Netlify, and Render
 
 ### 💻 Tech Stack
 
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
-
-<html><div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<html>
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div></html>
-
-###
-
 
 ### 🌱 Always Learning
 
-Technology never stands still, and neither do I. I'm always eager to learn new things and stay up-to-date with the latest trends in web development and beyond.
+I believe that consistent learning and hands-on practice are the keys to mastering software development. Whether it's writing clean code, improving UI/UX, or optimizing APIs—I'm always pushing myself to improve.
 
 ### 📫 How to Reach Me
 
 Email: huuduy5522@outlook.com
 
-### 🔝 Top Languages
+Connect with me:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuduy117&layout=compact&theme=radical)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=huuduy117&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=huuduy117&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huuduy117&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=huuduy117&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=huuduy117&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=huuduy117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -84,4 +77,7 @@ Email: huuduy5522@outlook.com
     </article>
 </html>
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you're interested in collaborating!
+---
+
+Feel free to explore my repositories, and don’t hesitate to reach out if you have questions or would like to collaborate!
+
