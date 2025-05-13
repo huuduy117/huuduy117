@@ -6,8 +6,8 @@
 <!-- About Me section -->
 <h2 style="text-align: center; font-size: 2rem; margin-top: 40px;">Hi, I'm Duy Nguyen</h2>
 
-<div style="text-align: center; margin: 20px 0;">
-  <img 
+<div>
+  <img align="center"
     src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47sc76l4bzm5e78c8rrg1713n6uudhl6ozmdc2a4t9&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
     alt="gif"
     style="max-width: 200px; border-radius: 12px; display: block; margin: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" 
