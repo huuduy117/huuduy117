@@ -62,6 +62,7 @@ Whether it's writing clean code, improving UI/UX, or optimizing APIs—I'm alway
   <img src="https://github-readme-stats.vercel.app/api?username=huuduy117&theme=radical" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huuduy117&theme=radical" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuduy117&theme=radical&layout=compact" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huuduy117&bg_color=0D1117&color=5BCDEC&line=0BBE00&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 </p>
 
 ---
