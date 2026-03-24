@@ -39,9 +39,7 @@ My current goal is to become a <strong>Web Frontend Developer</strong> within th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-</p>
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2oxczUxcHdxYngwbWtvbDFqdDQ3dDZkcmhiaWphNXR2MGcxemZyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qZgHBlenHa1zKqy6Zn/giphy.gif" />
-<br>
+</p>>
 
 ### 🌱 Always Learning
 I believe that consistent learning and hands-on practice are the keys to mastering software development.  
@@ -62,7 +60,7 @@ Whether it's writing clean code, improving UI/UX, or optimizing APIs—I'm alway
   <img src="https://github-readme-stats.vercel.app/api?username=huuduy117&theme=radical" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huuduy117&theme=radical" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuduy117&theme=radical&layout=compact" />
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huuduy117&bg_color=0D1117&color=5BCDEC&line=0BBE00&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+  
 </p>
 
 ---
