@@ -70,7 +70,6 @@ Whether it's writing clean code, improving UI/UX, or optimizing APIs—I'm alway
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="max-width: 100%; visibility: visible;" />
   </picture>
 </div>
 <h2 align="center">Thank you for visiting my profile! I'm always open to new opportunities and collaborations. Feel free to reach out to me if you have any questions or would like to connect. Let's build something amazing together!</h1>
